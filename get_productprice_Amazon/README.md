@@ -1,5 +1,5 @@
 
-Requirements:
+Requirements:       
 Selenium installed      
 Pyperclip installed       
-The price of the product has to be on the clipboard
+The price of the product has to be on the clipboard       
